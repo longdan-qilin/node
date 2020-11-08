@@ -1,0 +1,22 @@
+{
+  "name": "node.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1.js",
+  "dependencies": {
+    "art-template": "^4.13.2",
+    "chalk": "^4.1.0",
+    "jquery": "^3.5.1",
+    "moment": "^2.29.1",
+    "monent": "^2.0.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
